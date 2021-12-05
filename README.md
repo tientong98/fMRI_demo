@@ -1,5 +1,6 @@
-  * [01_get_data_and_preprocess.ipynb](https://github.com/tientong98/utdallas_demo/blob/main/code/01_get_data_and_preprocess.ipynb)
-  * [02_PPI.ipynb](https://github.com/tientong98/utdallas_demo/blob/main/code/02_PPI.ipynb)
+  * [Download and preprocess data](https://github.com/tientong98/utdallas_demo/blob/main/code/01_get_data_and_preprocess.ipynb)
+  * [Run psychophysiological analysis](https://github.com/tientong98/utdallas_demo/blob/main/code/02_PPI.ipynb)
+  * [Run beta series analysis](https://github.com/tientong98/utdallas_demo/blob/main/code/03_beta_series.ipynb)
 
 **Link to data**: https://openneuro.org/datasets/ds001229/versions/00001
 
