@@ -1,6 +1,7 @@
   * [Download and preprocess data](https://github.com/tientong98/utdallas_demo/blob/main/code/01_get_data_and_preprocess.ipynb)
   * [Run psychophysiological analysis](https://github.com/tientong98/utdallas_demo/blob/main/code/02_PPI.ipynb)
   * [Run beta series analysis](https://github.com/tientong98/utdallas_demo/blob/main/code/03_beta_series.ipynb)
+  * [MVPA: predict task conditions from brain activation](https://github.com/tientong98/utdallas_demo/blob/main/code/04.MVPA.ipynb)
 
 **Link to data**: https://openneuro.org/datasets/ds001229/versions/00001
 
